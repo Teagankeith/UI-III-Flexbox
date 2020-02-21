@@ -92,3 +92,35 @@ nav {
     margin-top: 3%;
 }
 
+
+
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.info div {
+    background-color: lightgrey;
+    border: 1px solid;
+    width: 40%;
+    margin: 2%;
+    padding: 2%;
+}
+
+
+
+.service-section{
+  display: flex;
+  margin-top: 3%;
+}
+
+.footer-list{
+    list-style: square;
+    margin-left: 3%;
+}
+
+footer {
+    text-align: center;
+}
